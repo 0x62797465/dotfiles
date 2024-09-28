@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-nohup waylock &
+hyprlock &
